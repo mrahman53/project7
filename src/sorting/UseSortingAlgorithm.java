@@ -19,7 +19,7 @@ public class UseSortingAlgorithm {
         SortingAlgo.printSortedArray(array2);
         System.out.println("Array3 using Selection sort: ");
         SortingAlgo.printSortedArray(array3);
-
+        //merge sort
         sort.mergeSort(array1);
         sort.printSortedArray(array1);
 
